@@ -34,3 +34,7 @@ http://ravenkwok.com/
 http://p5art.tumblr.com
 
 http://ayearincode.tumblr.com/
+
+http://trcreativecoding.tumblr.com
+
+http://www.patrik-huebner.com/
