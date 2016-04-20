@@ -98,3 +98,7 @@ http://www.arashsaidi.com/
 http://patakk.tumblr.com/
 
 http://atticusbones.tumblr.com/
+
+http://thecreatorsproject.vice.com/blog/elegant-generative-art-explores-the-haiku-as-code
+
+http://visualcodepoems.tumblr.com/
