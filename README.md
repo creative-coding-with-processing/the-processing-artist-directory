@@ -1,13 +1,13 @@
 # the-processing-artist-directory
-A list of all the creatives we know who work with Processing
+A list of creatives who work with Processing
 
+## Professionals
 http://www.onformative.com/
-
 https://www.field.io/
-
 http://www.joshuadavis.com/
-
 http://mariuswatz.com/
+
+
 
 http://www.lozano-hemmer.com/
 
