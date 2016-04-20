@@ -2,8 +2,11 @@
 A list of creatives who work with Processing
 
 http://www.onformative.com/
+
 https://www.field.io/
+
 http://www.joshuadavis.com/
+
 http://mariuswatz.com/
 
 http://www.lozano-hemmer.com/
@@ -35,3 +38,7 @@ http://ayearincode.tumblr.com/
 http://trcreativecoding.tumblr.com
 
 http://www.patrik-huebner.com/
+
+http://lightprocesses.tumblr.com/
+
+https://runemadsen.com/
