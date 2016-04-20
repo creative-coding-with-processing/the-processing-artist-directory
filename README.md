@@ -102,3 +102,5 @@ http://atticusbones.tumblr.com/
 http://thecreatorsproject.vice.com/blog/elegant-generative-art-explores-the-haiku-as-code
 
 http://visualcodepoems.tumblr.com/
+
+http://stevesketchcode.tumblr.com/
