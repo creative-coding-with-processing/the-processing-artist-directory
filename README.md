@@ -106,3 +106,14 @@ http://visualcodepoems.tumblr.com/
 http://stevesketchcode.tumblr.com/
 
 http://www.feld.is/
+
+http://jacobjoaquin.tumblr.com/
+
+http://mnununimune.com/
+
+http://jodeus.tumblr.com/
+
+http://enchantedconsole.tumblr.com/
+
+http://thebutterflybrains.tumblr.com/
+
