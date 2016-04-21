@@ -1,51 +1,68 @@
 # the-processing-artist-directory
 A list of creatives who work with Processing
 
+##Design, applied art
 http://www.onformative.com/
-
 https://www.field.io/
-
 http://www.joshuadavis.com/
-
 http://mariuswatz.com/
-
-http://www.lozano-hemmer.com/
-
-http://www.complexification.net/gallery/
-
 http://roberthodgin.com/
+http://feltron.com/
+http://lauren-mccarthy.com/
+http://ayearincode.tumblr.com/
+http://n-e-r-v-o-u-s.com/index.php
 
+
+##Education
+
+
+
+
+##Art
+http://www.lozano-hemmer.com/
+http://mariuswatz.com/
 http://www.holgerlippmann.de/
-
+http://www.complexification.net/gallery/
 https://hamoid.com/
-
 http://cargocollective.com/raphaeldecourville
+http://ravenkwok.com/
+http://generateme.tumblr.com/
+http://folds2d.tumblr.com
+http://p5art.tumblr.com
 
+##Artists on tumblr
+
+##Educators
+
+##Blogs
 https://www.airtightinteractive.com/
 
-http://feltron.com/
 
-http://generateme.tumblr.com
+
+
+
+
+
+
+
 
 http://folds2d.tumblr.com
 
-http://ravenkwok.com/
 
-http://p5art.tumblr.com
 
-http://ayearincode.tumblr.com/
+
+
+
 
 http://trcreativecoding.tumblr.com
 
 http://www.patrik-huebner.com/
 
 http://lightprocesses.tumblr.com/
-
 https://runemadsen.com/
-
 http://www.supercolony.co/
 
-http://n-e-r-v-o-u-s.com/index.php
+
 
 https://www.sosolimited.com/#csis-data-chandelier
 
@@ -119,5 +136,5 @@ http://thebutterflybrains.tumblr.com/
 
 http://amseastan.tumblr.com/
 
-http://lauren-mccarthy.com/
+
 
